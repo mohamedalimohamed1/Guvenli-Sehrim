@@ -1,7 +1,4 @@
-# Ad Soyad: Mohamed Ali Mohamed
-# Öğrenci No: 22080410213
-
-## Güvenli Şehrim Uygulaması
+# Güvenli Şehrim Uygulaması
 
 Güvenli Şehrim, Türkiye’de yaşayan kullanıcıların günlük yaşamda ihtiyaç duyduğu temel bilgileri tek bir mobil uygulama üzerinden sunmayı amaçlayan bir mobil uygulamadır.
 
